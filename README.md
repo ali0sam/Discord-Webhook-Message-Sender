@@ -2,7 +2,7 @@
 
 ## Required
 
-| Python
+| Python 3
 
 
 ## install
